@@ -1,0 +1,23 @@
+{
+  "name": "civilized",
+  "version": "1.0.0",
+  "description": "Means of programming without learning a programming language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/civilized.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/civilized/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/civilized#readme",
+  "dependencies": {
+    "xregexp": "^3.2.0"
+  }
+}
