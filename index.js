@@ -14,7 +14,7 @@ module.exports = function(location){
     registered.forEach((matcher)=>{
       const match = XRegExp.exec(line, XRegExp(matcher.expression) );
       if(match) {
-        result.push(matcher.event, match)
+        result.push({name:matcher.event, data:match})
       }
     })
   });
