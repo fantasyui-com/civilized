@@ -1,3 +1,3 @@
 const civilized = require("./index.js");
 
-console.log( civilized(__dirname + '/STORY.md') );
+console.log( civilized(__dirname + '/TEST.md') );
