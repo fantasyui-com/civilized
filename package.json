@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/fantasyui-com/civilized#readme",
   "dependencies": {
-    "xregexp": "^3.2.0"
+    "xregexp": "^4.2.4"
   }
 }
