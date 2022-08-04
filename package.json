@@ -1,6 +1,6 @@
 {
   "name": "civilized",
-  "version": "1.14.0",
+  "version": "1.15.0",
   "description": "Means of programming without learning a programming language.",
   "main": "index.js",
   "scripts": {
